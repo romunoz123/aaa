@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lenguaje</string>
+
+    <string name ="correo">Correo electronico</string>
+    <string name ="contrasena">Contrasena</string>
+    <string name ="registrar">Registrar</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>

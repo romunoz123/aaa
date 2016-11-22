@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/E:/Lenguaje/app/src/main/res/values-en-rUS/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Internationalization</string>
+    <string name="contrasena">Password</string>
+    <string name="correo">email</string>
+    <string name="registrar">Register</string>
+</resources>
